@@ -1,0 +1,4 @@
+store_id,store_name,phone,email,street,city,state,zip_code
+36,AB,(012) 123-1234,asdf@mail.ru,1200 asdf as ,Cork,TA,12345
+37,AC,(022) 123-1564,ajkf@mail.ru,1201 asdf as ,DIDo,GD,12346
+38,AD,(032) 153-1236,asdf@mail.shop,1202 asdf as ,Cart,FDF,12347
